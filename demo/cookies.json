@@ -1,0 +1,282 @@
+[
+  {
+    "name": "tv-repeat-visit",
+    "value": "true",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "countryCode",
+    "value": "RU",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1749569487.121007,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ABTastySession",
+    "value": "mrasn=",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1748966487,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.2114119037.1748964688",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1756740688,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "2y0Hh6SBAUGBvEQTT3ZdEsYf7Qr",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1782660689.17204,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "amp_f4354c",
+    "value": "nlK-e6ek17wJGXaCVsWr43...1isr6mfqt.1isr6mg40.0.1.1",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1780500688,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tv_user",
+    "value": "{\"authorizationLevel\":100,\"id\":null}",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uid",
+    "value": "671ff4b2-5424-4012-b838-8d3d14c316c6",
+    "domain": ".criteo.com",
+    "path": "/",
+    "expires": 1782660689.71356,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1782660689,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "01JWV6PHT90ZV3CR41SAH0DEJN_.tt.1",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1782660689,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1748964689741::wp28QmTvnIpnzMaC6hgR.1.1748964689741",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1782660689,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cto_bundle",
+    "value": "r2VliV9uWXlEM1FYSExXYTElMkZiTzg5MVlRS3lObWQlMkJESlJBWWVPN213am0zd3k1Q1c4bEZkTUpwODJBblc4eEdpa3RJTzZ2cURjaW1FSlJ6cnh5TE1zUXE1blFQMiUyQmZBbFMxaW1QNUtzUzByNkklMkJIbzhua2c5RTZxNXg5N3hsbE1EeTZ0UzhnQ1Z0WG9ZQndFYURncmFPbWhwdyUzRCUzRA",
+    "domain": ".criteo.com",
+    "path": "/",
+    "expires": 1782660689.806472,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cto_bundle",
+    "value": "bIm3LV9kYjVZYzhabW4yczRyQkMyc3BrZUtjcU1TSDIyMDM2NXlleHN5dklyWXU4VjZiNktpdXNROTViZVJ0cFAyWEk2WVRxdWN0JTJCNEw0NzBkQ3Q1dnhmSG0yNFJJbXhWbkJrN2ZrbWdrQ0RhcGdlb0JtdkRLbVY4MnhFa2toa2dmTFNnY3VDMmY2OGxMTmpvbUZuTWNPVUNCN0xUM3pFJTJCMGZxUG1ENVdmbWQlMkI4bWslM0Q",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1783128689,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.12048333.1748964690",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1783524702.608595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.36625415.1748964690",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1749051102,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gat_UA-29776811-12",
+    "value": "1",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1748964749,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1748964690060.953510614421667177",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1756740691,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "aws-waf-token",
+    "value": "59156165-c370-42ba-854d-4b631ac57091:DQoAbC5rcohxAAAA:cj5GZuVxwQHvP7247D1yQfgbjFEwYjOditITOqWvOiDI9ahOyXtEC9/WoEnq+6V+0g9PQTDkK/2d+BHQSBrSMg/IDycapbrin89gJSf77zayoAD2rPa2OLYLe+n+McjwToocLsHAbyeIObCad+4k7pmS6IvIrVohDbvAjExTRyO4zkGKET8YcPE372Awuj7GdQSKYN2zOiKr4vSdmxttMPjJWBNZv2v+NztjQpWQlnsj4ro=",
+    "domain": ".www.traveloka.com",
+    "path": "/",
+    "expires": 1749310300,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tvl",
+    "value": "sxAjTg09AgiqnobtQYEweKN+hx07Ms1AYABxnq5MOP+76tFZBo6txnCylIO++6klDrcmNu8TAvKqvA4RvHR08NLmupHldZHc3aWKCrrq56OXib7AEZhj5YAS6rVEcoqTSkVjxO0RyFa3VrB00L+IJeEe3AR87iGHV3Ff5ElJV8SRAh4Mul1/prb0upOhJ5zUx1UHzapI605qg2xAcVU6Lh7qbdu/B28ZxL30qRDday9kWc6rbaIrFroCOPksx5hWVd1I28BMUHjJbfDbhpM18PpVm5sXzcpunpOjmE6hyjC14vMyUmpROlKVTHO8lXVy+ShExuVozPp0Hw9VEWwgBUooO1MTuLoEO96WRRusnI28lA==~djAy",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1780500702.526889,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tvs",
+    "value": "pAYBQfhAxv4K+9bKSamkJy7mBLqtFmotA5RLMCToSfD2Q9AFbwKpxDpiZ1xj3pVj6gbeCR/fMRNmRgcg0k/uzRWt6q82CUQEiCBmEEjPXEXLVaHxG4U2mRXGHoMdBC4EDgYHDHi+ukRfqcH60hxOUUN8m4nfRwGF656SeH8scSmw9MNCmvZDPhqb+Cljl1Fj7/WpGUDSc9afnsHSHO5BHWDsBv5NuLNx/H7gFdyxO88w9eIViSdE/v81SsL66lBQ63iyedgDJzcePgvzVuu1/O621p0gWzaWWIcPXjNkEpyxBd9UPXTw6R4rByiWVhMiU8A/k8GX8xFuh5SmKD4IQ6DL5Q2MgVs66GFIsC+ndWEtadpE~djAy",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_RSRSMMBH0X",
+    "value": "GS2.1.s1748964689$o1$g1$t1748964702$j47$l0$h802849682",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1783524702.626607,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "amp_1a5adb",
+    "value": "Z64jWcyY_YaLNGGMU2dta5...1isr6mfqr.1isr6mud5.6.1.7",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1780500702,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_ex",
+    "value": "1747128313",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1751556703,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_c",
+    "value": "1",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1783128703,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUkPHMm1C2nQkYYaTq9k53RI6JIbf0DQl9OXqRJo4ci8EIiNuq-KIJj2xbaC",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1782660703.850632,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ttcsid_CUM82PBC77U4QKJNCRL0",
+    "value": "1748964698418::r3YN-C15DxHEJUM_6dGs.1.1748964704506",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1782660704,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_CFNI0BRC77UEUGLEG00G",
+    "value": "1748964689741::3iCgx__mzfX9Md8KgFxU.1.1748964704506",
+    "domain": ".traveloka.com",
+    "path": "/",
+    "expires": 1782660704,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_dd_s",
+    "value": "rum=0&expire=1748965600291&logs=1&id=ce848649-5281-4d29-8465-9f306703d66d&created=1748964686644",
+    "domain": "www.traveloka.com",
+    "path": "/",
+    "expires": 1748965604,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  }
+]

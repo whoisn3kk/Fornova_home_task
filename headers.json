@@ -1,0 +1,18 @@
+{
+  "accept": "*/*",
+  "accept-language": "ru",
+  "content-type": "application/json",
+  "dnt": "1",
+  "origin": "https://www.traveloka.com",
+  "priority": "u=1, i",
+  "referer": "https://www.traveloka.com/en-th/hotel/detail?spec=04-06-2025.05-06-2025.1.1.HOTEL.9000001153383.Radisson%20Resort%20%26%20Spa%20HuaHin.2",
+  "sec-ch-ua": "\"Google Chrome\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "sec-fetch-dest": "empty",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+  "x-domain": "accomRoom",
+  "x-route-prefix": "en-th"
+}

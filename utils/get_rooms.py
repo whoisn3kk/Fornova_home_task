@@ -151,7 +151,12 @@ def main() -> tuple[bool, str]:
         return False, "Headers file missing!"
     
     with open("headers.json", "r", encoding="utf-8") as f:
-        browser_headers = json.load(f)
+        try:
+            browser_headers = json.load(f)
+        except:
+            print("Cant parse headers, invalid json.")
+            return False, "Cant parse headers, invalid json."
+        browser_headers["referer"] = DEEPLINK_URL
 
     payload = build_payload(DEEPLINK_URL)
     resp = requests.post(ROOMS_URL, headers=browser_headers, proxies=proxies, cookies=cookies_lst, data=json.dumps(payload))

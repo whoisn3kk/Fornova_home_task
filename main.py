@@ -1,7 +1,7 @@
-from get_session import main as get_session
-from get_rooms import main as get_rooms
+from utils.get_session import main as get_session
+from utils.get_rooms import main as get_rooms
 
-from response_parse import extract_rates_from_response
+from utils.response_parse import extract_rates_from_response
 
 def main():
     success, msg = get_rooms()

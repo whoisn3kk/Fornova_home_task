@@ -17,8 +17,7 @@ def main():
             print(msg)
             return
         
-    room_name = "Superior Twin With Ocean View"
-    res, file = extract_rates_from_response(room_name)
+    res, file = extract_rates_from_response()
     if res:
         print(f"Done! Saved in {file}.")
     else:
